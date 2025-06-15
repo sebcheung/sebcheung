@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi there! I'm Sebastian Cheung, a Computer Science student at Northeastern University specializing in Artificial Intelligence and Machine Learning. I enjoy building projects that solve real-world problems and exploring how technology can shape the future. My other interests and hobbies include: football, weightlifting, MMA, F1, EDM, snowboarding, Gundams, and seafood! I like to learn new things every day and consider myself hardworking, conscientious, and ambitious.
+👋 Hi there! I'm Sebastian Cheung, a Computer Science student at Northeastern University specializing in Artificial Intelligence and Machine Learning. My goals are to learn and develop projects and applications that tackle real-world problems to make a lasting impact on the industry. Specifically, I am exploring LLMs, neural networks, and reinforcement learning to understand the future of automation and forecasting. Then, I will apply this knowledge to future projects and expand my arsenal of tools. My dream is to either create a successful startup or work for a company that is a pioneer in technology and strives to push the boundaries of innovation. As an ambitious, conscientious, and hardworking individual, I welcome challenges and am not afraid to ask questions and make mistakes.
+
+Beyond academics and programming, I am interested in MMA (Brazilian Jiu Jitsu, Muay Thai, and Judo), Formula 1, weightlifting, day-trading, football, digital marketing, and entrepreneurship. Feel free to reach out and say hello!
 
 
 ## 🌐 Socials:
